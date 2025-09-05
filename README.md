@@ -107,5 +107,43 @@ curl.exe "https://<your-ngrok>.ngrok-free.app/inbound?msisdn=%2B1YOUR_NUMBER&to=
 
 ---
 
+## 🏆 Blurb - Judging Criteria
+
+**Progress – How much progress did you make?**
+
+- Configured Vonage toll-free number + application.
+
+- Built a working FastAPI backend with inbound SMS handling + auto-reply.
+
+- Integrated ngrok for webhook testing and exposed live endpoints.
+
+- Demonstrated end-to-end flow: inbound SMS → FastAPI → auto-reply → Vonage logs.
+
+*✅ Shows real, working code and full-stack progress beyond just an idea.*
+
+
+**Concept – Does it solve a real problem?**
+
+- Businesses lose customers when texts go unanswered.
+
+- OmniCare CX Agent solves this by providing instant SMS auto-replies, ensuring 24/7 acknowledgment.
+
+- Improves customer experience (CX) and prevents lost opportunities.
+
+*✅ Tackles a universal pain point with a simple, effective solution.*
+
+
+**Feasibility – Could this become a startup or company?**
+
+- SMS auto-response is just the start → scalable to WhatsApp, Messenger, Viber, and Voice bots.
+
+- Future integrations: AI/NLP for smart replies, CRM (HubSpot, Salesforce), cloud SaaS deployment.
+
+- Monetization potential: SMB subscriptions or per-message enterprise pricing.
+
+*✅ Clear business model + scalability path for a real-world startup.*
+
+---
+
 ## 📜 License
 MIT License © 2025 Sweety Seelam
