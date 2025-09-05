@@ -42,7 +42,7 @@ This project was built for the **DevNetwork Hackathon 2025** under the **Vonage 
     pip install -r requirements.txt
 ```
 
-**3. Create a .env file:**
+**3. Create a .env file (text file):**
 ```ini
     VONAGE_API_KEY=your_api_key
     VONAGE_API_SECRET=your_api_secret
@@ -84,7 +84,7 @@ curl.exe "https://<your-ngrok>.ngrok-free.app/inbound?msisdn=%2B1YOUR_NUMBER&to=
 ## 🏆 Hackathon Devpost Submission
 - Track: Vonage Challenge #2 – Transforming Customer Service
 
-- Demo Video: 
+- Demo Video: https://youtu.be/A3XbiIEPNAY
 
 - GitHub Repo: [DevNetwork-Devpost-Hackathon](https://github.com/SweetySeelam2/DevNetwork-Devpost-Hackathon)
 
