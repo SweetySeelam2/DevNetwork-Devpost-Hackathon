@@ -82,11 +82,15 @@ curl.exe "https://<your-ngrok>.ngrok-free.app/inbound?msisdn=%2B1YOUR_NUMBER&to=
 ---
 
 ## 🏆 Hackathon Devpost Submission
-- Track: Vonage Challenge #2 – Transforming Customer Service
 
-- Demo Video: https://youtu.be/A3XbiIEPNAY
+- **Team**                                                                                                                   
+  Solo: Sweety Seelam
 
-- GitHub Repo: [DevNetwork-Devpost-Hackathon](https://github.com/SweetySeelam2/DevNetwork-Devpost-Hackathon)
+- **Track:** Vonage Challenge #2 – Transforming Customer Service
+
+- **Demo Video:** https://youtu.be/A3XbiIEPNAY
+
+- **GitHub Repo:** [DevNetwork-Devpost-Hackathon](https://github.com/SweetySeelam2/DevNetwork-Devpost-Hackathon)
 
 ---
 
